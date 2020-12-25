@@ -1,0 +1,21 @@
+body h1{
+    text-align: center;
+    color: rgb(10, 160, 60);
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+}
+#extra{
+   margin: auto;
+}
+#extra th td{
+    margin: auto;
+    border: 6px solid black;
+     border-collapse: collapse;
+}
+img{
+    width: 30%;
+    margin-left: 550px;
+}
